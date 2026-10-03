@@ -1,0 +1,2 @@
+# premium-finops-negotiate-001-vendor-contract-negotiation-pl
+You're leaving thousands on the table every contract renewal because you don't have a negotiation framework. Most FinOps teams wing it—this Vendor Contract Negotiation Playbook gives you the exact system to reclaim those savings.  Stop negotiating from a position of weakness. This Notion-based playbook walks you through vendor contract analysis, le
